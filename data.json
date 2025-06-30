@@ -1,0 +1,26 @@
+[
+    {
+        "name": "tttt",
+        "age": 34,
+        "email": "gfhhdf",
+        "pin": 7676,
+        "accountNo": "1234",
+        "balance": 0
+    },
+    {
+        "name": "aryan",
+        "age": 32,
+        "email": "aryan@123",
+        "pin": 2222,
+        "accountNo": "8384791551",
+        "balance": 3500
+    },
+    {
+        "name": "arun",
+        "age": 54,
+        "email": "arsgsfsj67@gmail.com",
+        "pin": 5454,
+        "accountNo": "8401519951",
+        "balance": 0
+    }
+]
