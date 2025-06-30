@@ -3,7 +3,7 @@
 
 A simple and secure **Bank Management System** built using **Python** and **Streamlit**, where users can create an account, deposit/withdraw money, update details, and more — all from a sleek web interface.
 
-[![Deploy to Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://your-app-url.streamlit.app](https://bank-management-app-lyzxjapp24bkrqpuu2wkizb.streamlit.app/))
+see the project by the link :-  https://bank-management-app-lyzxjapp24bkrqpuu2wkizb.streamlit.app/
 
 ---
 
